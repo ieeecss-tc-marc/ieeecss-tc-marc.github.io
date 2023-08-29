@@ -1,3 +1,3 @@
 # ieeecss-tc-marc.github.io
 
-This is a README
+Official Website of IEEE CSS Technical Committee on Manufacturing Automation and Robotic Control
