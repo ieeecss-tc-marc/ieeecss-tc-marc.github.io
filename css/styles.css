@@ -346,6 +346,7 @@ header#header .nav .back-link p a {
   font-weight: 700;
   border-bottom: 1px solid #bdbdbd;
   padding-bottom: 8px;
+  margin-top: 60px;
 }
 .right-side h3 i {
   color: #98012e;
